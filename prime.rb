@@ -1,6 +1,8 @@
 # Add  code here!
 def prime(i)
-  if
+  if i  
+    puts
 
-  else 
+  else
+    puts false
 end
